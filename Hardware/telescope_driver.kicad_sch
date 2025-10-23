@@ -5368,9 +5368,9 @@
 		)
 		(uuid d340d13a-4f06-4f99-ab04-19f8cdd39159)
 	)
-	(text "Pi"
+	(text "Raspberry Pi 5\n"
 		(exclude_from_sim no)
-		(at 21.336 20.066 0)
+		(at 29.972 17.78 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -7274,7 +7274,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 130.81) (xy 208.28 130.81)
+			(xy 205.74 130.81) (xy 208.28 130.81)
 		)
 		(stroke
 			(width 0)
@@ -7894,7 +7894,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 133.35) (xy 208.28 133.35)
+			(xy 187.96 133.35) (xy 208.28 133.35)
 		)
 		(stroke
 			(width 0)
@@ -7904,7 +7904,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 135.89) (xy 208.28 135.89)
+			(xy 193.04 135.89) (xy 208.28 135.89)
 		)
 		(stroke
 			(width 0)
@@ -11820,7 +11820,7 @@
 		(uuid "0bec16b3-1718-4967-abb5-89274b1e4c31")
 	)
 	(label "UART"
-		(at 198.12 135.89 180)
+		(at 193.04 135.89 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11830,7 +11830,7 @@
 		(uuid "11dca617-3e02-410e-a9f8-890104a239c6")
 	)
 	(label "GPIO21{slash}PCM.DOUT"
-		(at 198.12 130.81 180)
+		(at 205.74 130.81 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12100,7 +12100,7 @@
 		(uuid "8884f889-9347-46bd-866f-b11bff11cec3")
 	)
 	(label "GPIO26"
-		(at 198.12 133.35 0)
+		(at 187.96 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19114,76 +19114,6 @@
 			(project "test"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "D13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 60.96 196.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f2a1858f-9616-4b18-aa9c-c663c8467c22")
-		(property "Reference" "R7"
-			(at 63.5 195.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1k"
-			(at 63.5 198.1199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 59.182 196.85 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.96 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 60.96 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8cc23eb8-2933-470c-87c9-5981bfccc13e")
-		)
-		(pin "2"
-			(uuid "9152bfdf-c634-4b55-af7e-4683cc66a46f")
-		)
-		(instances
-			(project "telescope_driver"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R7")
 					(unit 1)
 				)
 			)
