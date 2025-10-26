@@ -6216,6 +6216,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 68.58) (xy 60.96 68.58)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(uuid "2abf7226-878b-463a-8cb0-6c0ca85cc199")
+	)
+	(wire
+		(pts
 			(xy 248.92 72.39) (xy 248.92 78.74)
 		)
 		(stroke
@@ -7376,7 +7386,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 66.04) (xy 100.33 66.04)
+			(xy 73.66 66.04) (xy 101.6 66.04)
 		)
 		(stroke
 			(width 0)
@@ -7693,16 +7703,6 @@
 			(type solid)
 		)
 		(uuid "df2cdc6b-e26c-482b-83a5-6c3aa0b9bc90")
-	)
-	(wire
-		(pts
-			(xy 60.96 68.58) (xy 31.75 68.58)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "df3b4a97-babc-4be9-b107-e59b56293dde")
 	)
 	(wire
 		(pts
@@ -8024,7 +8024,7 @@
 		)
 		(uuid "fb9c7bc8-2c3b-44c3-bca2-ba1d282c0989")
 	)
-	(label "UART"
+	(label "UART0"
 		(at 83.82 135.89 180)
 		(effects
 			(font
@@ -8054,7 +8054,7 @@
 		)
 		(uuid "0bec16b3-1718-4967-abb5-89274b1e4c31")
 	)
-	(label "UART"
+	(label "UART0"
 		(at 193.04 135.89 180)
 		(effects
 			(font
@@ -8124,7 +8124,7 @@
 		)
 		(uuid "2bd0c3a2-fb40-45cf-bdc7-ed6b7b1c1600")
 	)
-	(label "UART"
+	(label "UART0"
 		(at 99.06 35.56 0)
 		(effects
 			(font
