@@ -8777,6 +8777,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 66.04 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8d678796-43d4-427f-808d-7fd8ec169db6")
 		)
@@ -8923,7 +8932,7 @@
 				)
 			)
 		)
-		(property "Value" "130"
+		(property "Value" "600"
 			(at 185.42 38.354 90)
 			(effects
 				(font
@@ -8951,6 +8960,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 185.42 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 185.42 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9094,6 +9112,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 255.27 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "785ab369-5d5b-429d-b7f8-056d491ba31e")
 		)
@@ -9126,7 +9153,7 @@
 				)
 			)
 		)
-		(property "Value" "130"
+		(property "Value" "600"
 			(at 77.47 151.384 90)
 			(effects
 				(font
@@ -9154,6 +9181,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 77.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 77.47 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9297,6 +9333,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 273.05 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "86ecd78b-ec62-4e18-820b-bcce7847a47e")
 		)
@@ -9432,6 +9477,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 205.74 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b4602fea-4c93-4236-ba48-8c6712304a8b")
 		)
@@ -9559,6 +9613,15 @@
 		)
 		(property "Description" "2-phase stepper motor driver, 256 µSteps, 2.8A peak, 2.0A RMS, VS = 4.75..29V, STEP/DIR and UART interface, VQFN-28"
 			(at 104.14 183.134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 104.14 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9766,6 +9829,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 269.24 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "f03b826a-cec1-4ad8-b417-86faece37be2")
 		)
@@ -9875,6 +9947,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 35.56 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "1fdb592f-17a2-4606-a9fd-c2700958926c")
 		)
@@ -9943,6 +10024,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 121.92 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 121.92 142.24 0)
 			(effects
 				(font
@@ -10021,6 +10111,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 237.49 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "223139ab-0684-418e-8328-879a386623a8")
 		)
@@ -10084,6 +10183,15 @@
 		)
 		(property "Description" "2-phase stepper motor driver, 256 µSteps, 2.8A peak, 2.0A RMS, VS = 4.75..29V, STEP/DIR and UART interface, VQFN-28"
 			(at 223.52 183.134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 223.52 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10254,6 +10362,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 129.54 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "84d2bae4-1c18-4800-862d-5614b679e5a6")
 		)
@@ -10327,6 +10444,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 273.05 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c514e517-a0d9-43a5-90a5-01ed43ab88ee")
 		)
@@ -10390,6 +10516,15 @@
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode"
 			(at 135.89 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 135.89 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10533,6 +10668,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 255.27 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c89bd77e-7e09-4c7b-a927-6edaee2dbb2b")
 		)
@@ -10595,6 +10739,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 241.3 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 241.3 129.54 0)
 			(effects
 				(font
@@ -10673,6 +10826,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 35.56 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "36e2d19b-fc30-4fb7-b365-a1bab73c9227")
 		)
@@ -10741,6 +10903,15 @@
 			)
 		)
 		(property "Description" "Fuse"
+			(at 129.54 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 129.54 58.42 0)
 			(effects
 				(font
@@ -10951,6 +11122,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 196.85 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9679295f-a000-4412-a9f6-093f48b0d012")
 		)
@@ -10983,7 +11163,7 @@
 				)
 			)
 		)
-		(property "Value" "130"
+		(property "Value" "600"
 			(at 77.47 159.004 90)
 			(effects
 				(font
@@ -11011,6 +11191,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 77.47 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 77.47 161.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11115,7 +11304,7 @@
 				)
 			)
 		)
-		(property "Value" "130"
+		(property "Value" "600"
 			(at 196.85 159.004 90)
 			(effects
 				(font
@@ -11143,6 +11332,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 196.85 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 196.85 161.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11211,6 +11409,15 @@
 		)
 		(property "Description" "Inductor"
 			(at 228.6 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 228.6 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11345,6 +11552,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 71.12 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 71.12 180.34 0)
 			(effects
 				(font
@@ -11554,6 +11770,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 257.81 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ada24bc0-6834-43e0-975c-28436a185f4e")
 		)
@@ -11755,6 +11980,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 139.7 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2bec4dd4-d72d-42b6-a28c-91dfc9fdaffa")
 		)
@@ -11897,6 +12131,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 204.47 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7f4c2b13-54d1-4831-85b3-6ff3a29b7cc1")
 		)
@@ -11965,6 +12208,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 85.09 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 85.09 161.29 0)
 			(effects
 				(font
@@ -12049,6 +12301,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 204.47 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3bafa8be-7c40-4b3f-9b93-06db32e69241")
 		)
@@ -12110,6 +12371,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 241.3 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 241.3 118.11 0)
 			(effects
 				(font
@@ -12180,6 +12450,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 109.22 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 109.22 102.87 0)
 			(effects
 				(font
@@ -12456,6 +12735,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 243.84 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6160e944-da0c-4b1a-a76f-bd82ba9d9738")
 		)
@@ -12592,6 +12880,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 135.89 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9cf0d2a9-3aa2-4bd0-81f0-193f11bb9c8c")
 		)
@@ -12653,6 +12950,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 190.5 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 190.5 180.34 0)
 			(effects
 				(font
@@ -12797,6 +13103,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 297.18 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7d5194e-bbea-4a4d-97ec-19c8ed837a81")
 		)
@@ -12859,6 +13174,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 241.3 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 241.3 142.24 0)
 			(effects
 				(font
@@ -12937,6 +13261,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 182.88 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "383313e5-2d63-4f17-ae8f-248288a267da")
 		)
@@ -12969,7 +13302,7 @@
 				)
 			)
 		)
-		(property "Value" "130"
+		(property "Value" "0"
 			(at 177.8 38.354 90)
 			(effects
 				(font
@@ -12997,6 +13330,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 177.8 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13066,6 +13408,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 123.19 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 123.19 172.72 0)
 			(effects
 				(font
@@ -13200,6 +13551,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 92.71 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 92.71 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13473,6 +13833,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 92.71 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5c6add5-e518-45ba-a830-4e49e4335feb")
 		)
@@ -13536,6 +13905,15 @@
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode"
 			(at 135.89 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 135.89 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13745,6 +14123,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 135.89 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dd79e0ee-047b-4256-be0b-69bb9d923d94")
 		)
@@ -13814,6 +14201,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "115e4fb9-b7f8-4370-9767-27c663fe8931")
 		)
@@ -13875,6 +14271,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 248.92 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 248.92 68.58 0)
 			(effects
 				(font
@@ -14025,6 +14430,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 85.09 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "74ee04f7-7026-4d0c-ac13-4afd76284eaf")
 		)
@@ -14087,6 +14501,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 241.3 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 241.3 153.67 0)
 			(effects
 				(font
@@ -14165,6 +14588,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 255.27 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76091d60-b9f8-451b-87a1-49037ce215a1")
 		)
@@ -14228,6 +14660,15 @@
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode"
 			(at 107.95 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 107.95 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14304,6 +14745,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 86.36 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "76ea2501-6a09-4271-8bc4-e0a6185c7110")
 		)
@@ -14367,6 +14817,15 @@
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode"
 			(at 135.89 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 135.89 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14510,6 +14969,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 121.92 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2d803c23-589c-4f71-8634-a569bd6cdd63")
 		)
@@ -14571,6 +15039,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 147.32 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 147.32 58.42 0)
 			(effects
 				(font
@@ -14649,6 +15126,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 228.6 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6fb610d9-6b53-4299-8593-037246cec8c0")
 		)
@@ -14711,6 +15197,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 124.46 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 124.46 102.87 0)
 			(effects
 				(font
@@ -14918,6 +15413,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 121.92 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "697f60c1-cd5f-47c0-ad97-2b119e4ef047")
 		)
@@ -14994,6 +15498,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 193.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a441449-e09b-45e4-b4da-2870b56e8e90")
 		)
@@ -15026,7 +15539,7 @@
 				)
 			)
 		)
-		(property "Value" "130"
+		(property "Value" "600"
 			(at 196.85 151.384 90)
 			(effects
 				(font
@@ -15054,6 +15567,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 196.85 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 196.85 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15123,6 +15645,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 153.67 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 153.67 102.87 0)
 			(effects
 				(font
@@ -15201,6 +15732,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 210.82 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ad2dc88f-e396-43b4-afcd-76b211472e43")
 		)
@@ -15262,6 +15802,15 @@
 			)
 		)
 		(property "Description" "Multiple-cell battery"
+			(at 129.54 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 129.54 67.31 0)
 			(effects
 				(font
@@ -15472,6 +16021,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 242.57 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eac6f46c-de54-41e4-a477-a10949f5c449")
 		)
@@ -15542,6 +16100,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 255.27 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "17a1ed33-7489-4dcd-85e9-373bfce32786")
 		)
@@ -15605,6 +16172,15 @@
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode"
 			(at 255.27 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 255.27 129.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15811,6 +16387,15 @@
 				(hide yes)
 			)
 		)
+		(property "Link" ""
+			(at 259.08 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "793ada0d-c9a9-4c0f-bd07-3e19c0b765f2")
 		)
@@ -15879,6 +16464,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 139.7 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
 			(at 139.7 54.61 0)
 			(effects
 				(font
